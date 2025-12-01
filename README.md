@@ -13,9 +13,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 # 🛠️ How to Use This Project
 **1. Clone the repository**
 
-```git clone https://github.com/Nifras7/customer_behavior_analysis```
+```git clone https://github.com/Nifras7/Customer_Behavior_Analysis```
 
-```cd customer_behavior_analysis```
+```cd Customer_Behavior_Analysis```
 
 **2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
